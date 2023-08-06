@@ -1,7 +1,7 @@
 # Zk Chickens
 Zk Chickens is a **online** casual shooter game powered by **Zk Sync Era**. The game is available on [Google Play Store](https://play.google.com/store/apps/details?id=com.casualzkgame.zkchickens) for Android users. You can mint your items from the [website](https://zkchickens.xyz/) and play with them in the game, instantly!
 
-![Zk Chickens Cover](/Images/Cover.png "Zk Chickens Cover")
+![Zk Chickens Cover](/profile/Images/Cover.png "Zk Chickens Cover")
 
 
 The main goal of Zk Chickens is to **create a player economy where some players earn from their skills while enjoying casual gameplay.** Many other blockchain games failed to deliver a sustainable economy but we had our lesson from them.
@@ -25,7 +25,7 @@ The other common approach is to **distribute a fixed amount of game reward (unlo
 
 **Our solution is fair and even brings the game new excitement!** We are distributing the game rewards to X number of players but not the top X, a random X number of players of that week! We have a lottery system for that. When a player wins a match, he earns an egg. Each egg represents a ticket for that week's lottery. The more eggs you have, the higher your chances you'll get in the lottery!
 <p align="center">
-<img src="/Images/Egg.png" alt="Zk Chickens Egg" width="450"/>
+<img src="/profile/Images/Egg.png" alt="Zk Chickens Egg" width="450"/>
 </p>
 In this way, we do not mint/unlock an infinite number of tokens to distribute to everyone or we do not discourage the majority of the players! Everyone has a chance to earn in this game! Waiting for lottery results for each week is quite exciting as well!
 
@@ -35,7 +35,7 @@ Zk Chickens is an exciting game with lots of other exciting features like **Comm
 Here you can follow [this tutorial video](https://www.youtube.com/watch?v=MR9lq-YVOF8) to start playing!
 
 <p align="center">
-<img src="/Images/Zk_Chickens.gif" alt="Zk Chickens Egg" width="450"/>
+<img src="/profile/Images/Zk_Chickens.gif" alt="Zk Chickens Egg" width="450"/>
 </p>
 <p align="center">
 Bang Bang 🔫
