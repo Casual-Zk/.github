@@ -6,6 +6,12 @@ Zk Chickens is a **online** casual shooter game powered by **Zk Sync Era**. The 
 
 The main goal of Zk Chickens is to **create a player economy where some players earn from their skills while enjoying casual gameplay.** Many other blockchain games failed to deliver a sustainable economy but we had our lesson from them.
 
+**Here are some useful links:**
+- **[Tutorial Video](https://www.youtube.com/watch?v=MR9lq-YVOF8)**: You can see how all these systems work and how to sign up, mint, and play the game!
+- **[Web Site](https://zkchickens.xyz/)**: Check out our website to learn some basics and mint your items!
+- **[Google Play Store](https://play.google.com/store/apps/details?id=com.casualzkgame.zkchickens)**: When you are good to go, download the game and play!
+- **[Whitepaper](https://bora-oezenbirkan.gitbook.io/zk-chickens/)**: You can check out our Whitepaper to learn more about the details!
+
 ### Lessons
 #### Inflation
 More than **500% or even 1000% inflation** is leading to an end. Naturally.
