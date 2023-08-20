@@ -11,6 +11,8 @@ The main goal of Zk Chickens is to **create a player economy where some players 
 - **[Web Site](https://zkchickens.xyz/)**: Check out our website to learn some basics and mint your items!
 - **[Google Play Store](https://play.google.com/store/apps/details?id=com.casualzkgame.zkchickens)**: When you are good to go, download the game and play!
 - **[Whitepaper](https://bora-oezenbirkan.gitbook.io/zk-chickens/)**: You can check out our Whitepaper to learn more about the details!
+- **[Token Contract](https://testnet.snowtrace.io/token/0xA90fD9116d12fe6AfeD99b2Ff73023F424f486c5)**: Zk Chickens (ERC20) token contract.
+- **[Item Contract](https://testnet.snowtrace.io/address/0xe0C930E65852014c2230a152d1e099Fa41879081)**: Item Contract (ERC1155)
 
 ### Lessons
 #### Inflation
@@ -18,7 +20,7 @@ More than **500% or even 1000% inflation** is leading to an end. Naturally.
 
 In our project, we have a 3.34% team allocation with a 2-year linear vesting period which generates **only 1.67% inflation!**
 
-One other allocation is tester rewards (0.66% of total supply) which has 100% unlock at TGE and **doesn't generate any inflation.**
+One other allocation is tester rewards (0.66% of total supply) which have 100% unlock at TGE and **don't generate any inflation.**
 
 And our 3rd allocation is the Game Rewards allocation with %96 of the total supply. And it **doesn't generate any inflation** as well! Even though it is **%100 LOCKED** from the beginning!
 
